@@ -1,4 +1,11 @@
-### Experiência nas seguintes Tecnologias de Backend Java
+### Seja Bem-vindo ao meu GitHub. Eu sou Gabriel Clávila Soares
+- Atualmente sou Analista de Tecnologia da Informação no IFAM
+- Lotado na Coordenação Geral de Sistemas de Informação, trabalho diretamente no desenvolvimento e manutenção dos Sistemas de Informação do IFAM como desenvolver FullStack Java.
+- Professor em Cursos de Extensão na Área de Ciência de Dados e Machine Learning
+- Participo de Projetos de Pesquisa e Extensão voltados para as áreas de desenvolvimento de software e Inteligência Artificial
+- Buscando constantemente aprender novas metodologias e tecnologias, atualmente realizo estudos nas áreas de DevOps e Inteligência Artificial.
+
+#### Experiência nas seguintes Tecnologias de Backend Java
 
 <div style="display:inline">
   <img alt="Java J2EE" widht='50' height='50' src="img/backend/j2ee.png" />
@@ -13,7 +20,7 @@
   <img alt="WidFly Server" widht='50' height='50' src="img/backend/wildfly.png" />
 </div>
 
-### Experiência nas seguintes Tecnologias de FrontEnd
+#### Experiência nas seguintes Tecnologias de FrontEnd
 
 <div style="display:inline">
   <img alt="Java J2EE" widht='50' height='50' src="img/frontend/html.png" />
@@ -26,7 +33,7 @@
   <img alt="Maven Build" widht='50' height='50' src="img/frontend/angular.jpg" />
 </div>
 
-### Experiência nos seguintes Bancos de Dados
+#### Experiência nos seguintes Bancos de Dados
 
 <div style="display:inline">
   <img alt="Java J2EE" widht='50' height='50' src="img/databases/oracle.png" />
@@ -34,7 +41,7 @@
   <img alt="Servlets" widht='50' height='50' src="img/databases/postgresql.png" />
 </div>
 
-### Experiência nas seguintes Tecnologias de Cloud/DevOps
+#### Experiência nas seguintes Tecnologias de Cloud/DevOps
 
 <div style="display:inline">
   <img alt="Java J2EE" widht='50' height='50' src="img/cloud-devOps/aws.png" />
