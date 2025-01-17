@@ -69,3 +69,11 @@
   <img alt="Mockito" widht='70' height='70' src="img/testes/mockito.png" />
 </div>
 
+#### Experiência em Outras Tecnologias
+
+<div style="display:inline">
+  <img alt="Trello" widht='50' height='40' src="img/others/trello.jpg" />
+  <img alt="Jira" widht='50' height='40' src="img/others/jira.png" />
+  <img alt="Redmine" widht='50' height='40' src="img/others/redmine.png" />
+</div>
+
