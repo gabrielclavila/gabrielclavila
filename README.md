@@ -34,3 +34,13 @@
   <img alt="Servlets" widht='50' height='50' src="img/databases/postgresql.png" />
 </div>
 
+### Experiência nas seguintes Tecnologias de Cloud/DevOps
+
+<div style="display:inline">
+  <img alt="Java J2EE" widht='50' height='50' src="img/cloud-devOps/aws.png" />
+  <img alt="Java Server Pages" widht='50' height='50' src="img/cloud-devOps/git.png" />
+  <img alt="Servlets" widht='50' height='50' src="img/cloud-devOps/github.png" />
+  <img alt="Hibernate" widht='50' height='50' src="img/cloud-devOps/docker.png" />
+  <img alt="Framework Spring" widht='50' height='50' src="img/cloud-devOps/ku.jpg" />
+  <img alt="Framework SpringBoot" widht='50' height='50' src="img/cloud-devOps/jenkins.jpg" />
+</div>
