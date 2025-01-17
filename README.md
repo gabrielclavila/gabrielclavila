@@ -77,3 +77,8 @@
   <img alt="Redmine" widht='50' height='40' src="img/others/redmine.png" />
 </div>
 
+#### Experiência nas seguintes Tecnologias e Conceitos de Data Science e Machine Learning
+- Tecnologias
+  - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, PyTorch e OpenCV.
+- Conceitos
+  - Aprendizagem Supervisionada (Classificação e Regressão) e Não Supervisionada, Visão Computacional e Large Language Model (LLM)
