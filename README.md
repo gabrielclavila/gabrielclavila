@@ -25,3 +25,12 @@
   <img alt="Tomcat Server" widht='50' height='50' src="img/frontend/bootstrap.jpg" />
   <img alt="Maven Build" widht='50' height='50' src="img/frontend/angular.jpg" />
 </div>
+
+### Experiência nos seguintes Bancos de Dados
+
+<div style="display:inline">
+  <img alt="Java J2EE" widht='50' height='50' src="img/databases/oracle.png" />
+  <img alt="Java Server Pages" widht='50' height='50' src="img/databases/mysql1.png" />
+  <img alt="Servlets" widht='50' height='50' src="img/databases/postgresql.png" />
+</div>
+
