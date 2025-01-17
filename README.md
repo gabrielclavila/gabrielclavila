@@ -64,8 +64,8 @@
 #### Experiência nas seguintes Tecnologias de Teste de Software
 
 <div style="display:inline">
-  <img alt="JUnit" widht='30' height='30' src="img/testes/junit.png" />
-  <img alt="Cucumber" widht='60' height='60' src="img/testes/cucumber.jpg" />
-  <img alt="Mockito" widht='60' height='60' src="img/testes/mockito.png" />
+  <img alt="JUnit" widht='50' height='50' src="img/testes/junit.png" />
+  <img alt="Cucumber" widht='50' height='50' src="img/testes/cucumber.jpg" />
+  <img alt="Mockito" widht='50' height='50' src="img/testes/mockito.png" />
 </div>
 
